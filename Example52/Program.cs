@@ -61,12 +61,3 @@ PrintArray(array);
 Console.WriteLine("");
 meanNumberColumns(array);
 
-// for (short i = 0; i < n; i++)
-// {
-//     int sum = 0;
-//     for (short j = 0; j < n; j++)
-//     {
-//         sum += arr[j, i];
-//     }
-//     Console.WriteLine("Sum in {0} column: {1}", i, sum);
-// }
